@@ -1,0 +1,9 @@
+andas==2.1.4
+torch==2.6.0
+torchtext==0.18.0
+torchvision==0.21.0
+matplotlib==3.10.0
+transformers==4.48.1
+umap-learn==0.5.7
+scikit-learn
+networkx==3.4.2
